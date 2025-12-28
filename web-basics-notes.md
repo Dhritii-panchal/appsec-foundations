@@ -24,3 +24,10 @@
 - Understood differences between sessions and tokens
 - Learned common session and token security risks
 - Analyzed CORS purpose and misconfigurations
+
+## Same-Origin Policy (SOP)
+
+- Studied browser-enforced Same-Origin Policy
+- Understood what SOP blocks and what it allows
+- Differentiated SOP from CORS
+- Analyzed SOP relevance to XSS, CSRF, and API security
