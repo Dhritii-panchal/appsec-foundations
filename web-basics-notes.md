@@ -17,3 +17,10 @@
 - Studied common authentication failures
 - Analyzed authorization flaws such as IDOR and role bypass
 - Understood why access control bugs are common in web apps
+
+## Cookies, Sessions, Tokens & CORS
+
+- Studied cookie attributes and session handling
+- Understood differences between sessions and tokens
+- Learned common session and token security risks
+- Analyzed CORS purpose and misconfigurations
