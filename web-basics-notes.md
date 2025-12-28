@@ -31,3 +31,11 @@
 - Understood what SOP blocks and what it allows
 - Differentiated SOP from CORS
 - Analyzed SOP relevance to XSS, CSRF, and API security
+
+# Attack Surface Mapping (Web Applications)
+
+- Practiced end-to-end web request analysis
+- Identified user-controlled inputs and trust boundaries
+- Learned how to map attack surface manually
+- Prioritized high-risk areas such as auth, profiles, and orders
+
